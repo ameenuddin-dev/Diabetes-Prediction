@@ -283,8 +283,8 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 If you have any questions or suggestions, please contact:
 
 - Email: ameenfff8@gmail.com
-- GitHub Issues: [Issues section](https://github.com/ameenuddin-dev/Diabetes-Prediction)
-- GitHub Profile: [UznetDev](https://github.com/ameenuddin-dev/Diabetes-Prediction)
+- GitHub Issues: [Diabetes-Prediction](https://github.com/ameenuddin-dev/Diabetes-Prediction)
+- GitHub Profile: [AMEENUDDIN M M](https://github.com/ameenuddin-dev/Diabetes-Prediction)
 - Linkedin: [AMEENUDDIN M M](https://www.linkedin.com/in/ameenuddin-m-m-249549179/)
 
 ### <i>Thank you for your interest in the project!</i>
