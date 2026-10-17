@@ -1,0 +1,11 @@
+@"
+venv/
+.venv/
+.venv312/
+__pycache__/
+*.py[cod]
+.env
+.streamlit/secrets.toml
+.vscode/
+.idea/
+"@ | Add-Content .gitignore
